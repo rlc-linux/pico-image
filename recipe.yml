@@ -1,4 +1,4 @@
-name: Vanilla Pico
+name: RusLand Pico
 id: pico
 vibversion: 1.0.0
 
@@ -7,7 +7,7 @@ stages:
   base: scratch
   singlelayer: true
   labels:
-    maintainer: Vanilla OS Contributors
+    maintainer: Ruslan Artemev
   adds:
     - srcdst:
         rootfs/vanilla-pico.tar.zst: /
